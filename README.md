@@ -8,7 +8,7 @@ Designing responsive websites taught me a lot about HTML & CSS!
 Fast-forward to today, I've had the privilege of working in diverse domains, including medical insurance and fintech startups, one of them being a major corporation. 
 My primary focus revolves around building accessible, easily integratable SDKs, user-friendly products, and digital experiences at Juspay for a wide array of clients.
 
-- 🔭 I’m currently working on [Hyperswitch SDK](https://github.com/juspay/hyperswitch-web) & [Sentry Rescript binding](https://github.com/dilanbopanna/sentry-rescript)
+- 🔭 I’m currently working on [Hyperswitch SDK](https://github.com/juspay/hyperswitch-web)
 - 🌱 I’m currently learning Rescript.
 ## 🧰 Languages and Tools:
 <p >
