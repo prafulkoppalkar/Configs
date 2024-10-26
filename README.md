@@ -5,11 +5,12 @@
 Hello! I'm Praful and I thrive on crafting things that live on the internet. My journey in web development began back in 2021 when I was a fresher. 
 Designing responsive websites taught me a lot about HTML & CSS!
 
-Fast-forward to today, I've had the privilege of working in diverse domains, including medical insurance and fintech startups, one of them being a major corporation. 
-My primary focus revolves around building accessible, easily integratable SDKs, user-friendly products, and digital experiences at Juspay for a wide array of clients.
+Fast-forward to today, I've had the privilege of working in diverse domains, including medical insurance, fintech and automotive startups, couple of them being a major corporation. 
+My primary focus revolves around building accessible, easily integratable SDKs, embedable widgets, user-friendly products, and digital experiences at Juspay for a wide array of clients.
 
-- 🔭 I’m currently working on [Hyperswitch SDK](https://github.com/juspay/hyperswitch-web)
-- 🌱 I’m currently learning Rescript.
+- 🎯 I’ve been successful in building [Hyperswitch SDK](https://github.com/juspay/hyperswitch-web) from scratch.
+- 🔭 I’m currently working on new partner portal for Dealership management systems.
+- 🌱 I’m currently learning Rescript and new caching techniques.
 ## 🧰 Languages and Tools:
 <p >
 <img src="https://i0.wp.com/theicom.org/wp-content/uploads/2016/03/js-logo.png?ssl=1" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
@@ -25,7 +26,7 @@ My primary focus revolves around building accessible, easily integratable SDKs, 
 
 ### Here are some of my highlighted projects:
 
-- [Netflix Clone](https://netflix-v101.netlify.app/) 
+- [Netflix Clone](https://netflix-v101.netlify.app/](https://net-clone-flix.netlify.app/)) 
 - [MIT Scratch Clone](https://scratch-playground.netlify.app/)
 - [Speechify App](https://speak-with-me-v101.netlify.app/)
 
